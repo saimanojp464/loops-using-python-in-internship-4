@@ -1,0 +1,17 @@
+# looping statements
+'''
+for loop
+while loop
+'''
+# print a 1 to 5 using for loop
+a=[1,2,3,4,5]
+for i in a:
+    print(i)
+
+# write a while loop
+
+count = 1
+
+while count <= 5:
+      print(count) 
+      count += 1
